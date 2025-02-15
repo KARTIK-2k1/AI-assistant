@@ -1,1 +1,2 @@
 # AI-assistant
+This is a Python-based voice assistant that recognizes speech, executes commands like searching Wikipedia, opening websites, telling the time, and even sending emails. It utilizes the speech_recognition library for voice commands and pyttsx3 for speech output. The project follows a modular approach, ensuring clean code organization with functions like speak(), takecommand(), and sendEmail(). I also implemented exception handling to manage errors gracefully.
